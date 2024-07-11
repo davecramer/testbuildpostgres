@@ -17,4 +17,4 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   build:
-    uses: https://github.com/dpage/winpgbuild/blob/main/.github/workflows/postgresql.yml@main
+    uses: dpage/winpgbuild/blob/main/.github/workflows/postgresql.yml@main
